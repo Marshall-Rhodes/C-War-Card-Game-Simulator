@@ -1,0 +1,14 @@
+C:\Users\mrhodes\OneDrive - Deloitte (O365D)\Documents\C#\Projects\War (Card Game) Simulator\War\obj\Debug\net9.0\War.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrhodes\OneDrive - Deloitte (O365D)\Documents\C#\Projects\War (Card Game) Simulator\War\obj\Debug\net9.0\War.AssemblyInfoInputs.cache
+C:\Users\mrhodes\OneDrive - Deloitte (O365D)\Documents\C#\Projects\War (Card Game) Simulator\War\obj\Debug\net9.0\War.AssemblyInfo.cs
+C:\Users\mrhodes\OneDrive - Deloitte (O365D)\Documents\C#\Projects\War (Card Game) Simulator\War\obj\Debug\net9.0\War.csproj.CoreCompileInputs.cache
+C:\Users\mrhodes\OneDrive - Deloitte (O365D)\Documents\C#\Projects\War (Card Game) Simulator\War\bin\Debug\net9.0\War.exe
+C:\Users\mrhodes\OneDrive - Deloitte (O365D)\Documents\C#\Projects\War (Card Game) Simulator\War\bin\Debug\net9.0\War.deps.json
+C:\Users\mrhodes\OneDrive - Deloitte (O365D)\Documents\C#\Projects\War (Card Game) Simulator\War\bin\Debug\net9.0\War.runtimeconfig.json
+C:\Users\mrhodes\OneDrive - Deloitte (O365D)\Documents\C#\Projects\War (Card Game) Simulator\War\bin\Debug\net9.0\War.dll
+C:\Users\mrhodes\OneDrive - Deloitte (O365D)\Documents\C#\Projects\War (Card Game) Simulator\War\bin\Debug\net9.0\War.pdb
+C:\Users\mrhodes\OneDrive - Deloitte (O365D)\Documents\C#\Projects\War (Card Game) Simulator\War\obj\Debug\net9.0\War.dll
+C:\Users\mrhodes\OneDrive - Deloitte (O365D)\Documents\C#\Projects\War (Card Game) Simulator\War\obj\Debug\net9.0\refint\War.dll
+C:\Users\mrhodes\OneDrive - Deloitte (O365D)\Documents\C#\Projects\War (Card Game) Simulator\War\obj\Debug\net9.0\War.pdb
+C:\Users\mrhodes\OneDrive - Deloitte (O365D)\Documents\C#\Projects\War (Card Game) Simulator\War\obj\Debug\net9.0\War.genruntimeconfig.cache
+C:\Users\mrhodes\OneDrive - Deloitte (O365D)\Documents\C#\Projects\War (Card Game) Simulator\War\obj\Debug\net9.0\ref\War.dll
